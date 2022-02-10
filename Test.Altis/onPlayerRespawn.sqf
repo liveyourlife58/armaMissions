@@ -1,0 +1,1 @@
+//Executed locally when player respawns in a multiplayer mission.

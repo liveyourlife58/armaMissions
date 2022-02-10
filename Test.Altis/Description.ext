@@ -1,0 +1,31 @@
+//The Descritpion.ext is used to set the overall mission attributes or to define global entities that will be available for other scripts.
+
+class CfgSounds
+
+{
+
+ tracks[]={};
+
+ class Track01
+ {
+
+  name = "Track01";
+
+  sound[] = {"sound\Track01.ogg", 20, 1};
+
+  titles[] = {};
+ 
+ };
+
+ class Track02
+ {
+
+  name = "Track02";
+
+  sound[] = {"sound\Track02.ogg", 20, 1};
+
+  titles[] = {};
+ 
+ };
+
+};
